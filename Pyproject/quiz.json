@@ -1,0 +1,52 @@
+{"results": [
+    {
+        "question":"Which of the following is not a boolean value?",
+        "correct_answer":"true",
+        "incorrect_answers":["True","False","Both A and B"]
+    },
+    {
+        "question":"What is the default step value of the function range()?",
+        "correct_answer":"1",
+        "incorrect_answers":["-1","0","None of the above"]
+    },
+    {
+        "question":"What will be the index of 'o' in 'PythonGeeks'?",
+        "correct_answer":"4 or -7",
+        "incorrect_answers":["4 or -6","5 0r -7","5 or -6"]
+    },
+    {
+        "question":"What will be the output of the following code? print(int(4.9))",
+        "correct_answer":"4",
+        "incorrect_answers":["5", "4", "4.0", "Error"]
+    },
+    {
+        "question":"Find the coding block that gives an error?",
+        "correct_answer":"num-2=43",
+        "incorrect_answers":[" NUm2=43","num1=43","None"]
+    },
+    {
+        "question":"Which statement will check if a is equal to b?",
+        "correct_answer":"if a == b:",
+        "incorrect_answers":["if a = b:", "if a equal b:", "if a == b"]
+    },
+    {
+        "question":"list1=[9,8,7,6,5,4,3,2,1] , x = list1.pop(4), print(x)",
+        "correct_answer":"5",
+        "incorrect_answers":["4", "6", "None"]
+    },
+    {
+        "question":"Which of the following is not used as loop in Python?",
+        "correct_answer":" do-while loop",
+        "incorrect_answers":["for loop", "while loop", "None of the above"]
+    },
+    {
+        "question":"What keyword would you use to add an alternative condition to an if statement?",
+        "correct_answer":"elif",
+        "incorrect_answers":["elseif", "else if", "None of the Above"]
+    },
+    {
+        "question":"Which one of the following is a valid Python if statement :",
+        "correct_answer":"if a>=2 :",
+        "incorrect_answers":["if (a => 22)", "if (a >= 2)", "if a >= 22"]
+    }
+]}
